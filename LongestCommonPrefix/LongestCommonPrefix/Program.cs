@@ -22,5 +22,5 @@
         }
 
     }
-    return strs[0].Substring(0, minLength);
+    return strs[0].Substring(0, l);
 }
